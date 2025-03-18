@@ -1,6 +1,6 @@
 [package]
 name = "png_to_webp"
-version = "0.0.2"
+version = "0.0.3"
 edition = "2021"
 authors = ["qwadebot"]
 description = "A CLI tool to PNG images to WebP format"

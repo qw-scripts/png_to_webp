@@ -6,7 +6,7 @@ use std::time::Instant;
 use webp::Encoder;
 
 #[derive(Parser, Debug)]
-#[clap(name = "png_to_webp", version = "0.0.2", author = "qwadebot")]
+#[clap(name = "png_to_webp", version = "0.0.3", author = "qwadebot")]
 struct Cli {
     #[clap(short, long)]
     input: std::path::PathBuf,
