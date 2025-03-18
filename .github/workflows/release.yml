@@ -37,3 +37,4 @@ jobs:
           tar: unix
           zip: windows
           token: ${{ secrets.GITHUB_TOKEN }}
+          bin: "png_to_webp"
